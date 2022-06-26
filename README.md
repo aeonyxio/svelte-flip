@@ -12,7 +12,7 @@ npm i svelte-flip
 
 ```svelte
 <script lang="ts">
-	import { Flippable } from 'svelte-flip';
+	import Flippable from 'svelte-flip';
 	let flip = false;
 </script>
 
