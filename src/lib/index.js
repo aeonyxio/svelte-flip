@@ -1,1 +1,1 @@
-export { default as AutoForm } from './Flippable.svelte';
+export { default as Flippable } from './Flippable.svelte';
