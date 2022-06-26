@@ -2,6 +2,8 @@
 
 A simple, light-weight, flippable card component written with SvelteKit. The source code and an example can be found in [this blog post](https://aeonyx.io/code/blog/svelte-flippable-card-component).
 
+SvelteKit packages are still experimental, this library will be updated as SvelteKit stabilizes.
+
 ## Install
 
 ```bash
