@@ -1,6 +1,6 @@
 {
 	"name": "svelte-flip",
-	"version": "0.0.4",
+	"version": "0.0.6",
 	"description": "A simple flippable card component, written with SvelteKit",
 	"homepage": "https://aeonyx.io",
 	"bugs": "https://github.com/aeonyxio/svelte-flip.git",
@@ -31,6 +31,9 @@
 		"svelte2tsx": "^0.5.11",
 		"tslib": "^2.3.1",
 		"typescript": "^4.7.4"
+	},
+	"exports": {
+		".": "./src/lib/index.svelte"
 	},
 	"type": "module",
 	"license": "MIT"
