@@ -3,6 +3,10 @@
 	"version": "0.0.11",
 	"description": "A simple flippable card component, written with SvelteKit",
 	"homepage": "https://aeonyx.io",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aeonyxio/svelte-flip.git"
+	},
 	"bugs": "https://github.com/aeonyxio/svelte-flip.git",
 	"scripts": {
 		"dev": "svelte-kit dev",
