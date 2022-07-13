@@ -1,6 +1,6 @@
 {
 	"name": "svelte-flip",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"description": "A simple flippable card component, written with SvelteKit",
 	"homepage": "https://aeonyx.io",
 	"repository": {
